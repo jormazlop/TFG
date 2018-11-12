@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="tienda/src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="tienda/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="lib" path="tienda/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/iText-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/jasperreports-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/jasperreports-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/jasperreports-javaflow-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/poi-3.2-FINAL-20081019.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/substance.jar"/>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/ProyectosTFG/SistemaVentasProductos/librerias/librerias/swing-worker-1.1.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Jorge/Apuntes/TFG/2018/eclipse-jee-2018-09-win32-x86_64/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
