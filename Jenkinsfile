@@ -1,9 +1,17 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('Paso 1') {
       steps {
-        echo 'Prueba'
+        withSonarQubeEnv('SonarPrep') {
+          withSonarQubeEnv 'Sonar'
+        }
+
+      }
+    }
+    stage('Paso 2') {
+      steps {
+        waitForQualityGate true
       }
     }
   }
